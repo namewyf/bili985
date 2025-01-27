@@ -9,12 +9,12 @@ export default hopeTheme({
 
   author: {
     name: "书轩",
-    url: "https://mister-hope.com",
+    url: "https://space.bilibili.com/3494369946503683",
   },
 
   logo: "/assets/icon/bilibili.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "namewyf/bili985",
 
   docsDir: "src",
 

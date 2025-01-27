@@ -110,7 +110,7 @@ $$
 title: 书轩
 desc: Where there is light, there is hope
 logo: /assets/icon/bilibili.svg
-link: https://mister-hope.com
+link: https://space.bilibili.com/3494369946503683
 background: rgba(253, 230, 138, 0.15)
 ```
 

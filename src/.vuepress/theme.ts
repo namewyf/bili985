@@ -1,24 +1,25 @@
 import { hopeTheme } from "vuepress-theme-hope";
 
-import navbar from "./navbar.js";
+// import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  print: true,
 
   author: {
-    name: "Mr.Hope",
+    name: "书轩",
     url: "https://mister-hope.com",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/assets/icon/bilibili.svg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
 
   // 导航栏
-  navbar,
+  // navbar,
 
   // 侧边栏
   sidebar,

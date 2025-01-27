@@ -107,9 +107,9 @@ $$
 #### 组件
 
 ```component VPCard
-title: Mr.Hope
+title: 书轩
 desc: Where there is light, there is hope
-logo: https://mister-hope.com/logo.svg
+logo: /assets/icon/bilibili.svg
 link: https://mister-hope.com
 background: rgba(253, 230, 138, 0.15)
 ```

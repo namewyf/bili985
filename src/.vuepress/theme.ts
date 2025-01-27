@@ -125,7 +125,7 @@ export default hopeTheme({
       provider: "Waline",
 
       // 服务选项
-      serverURL: "https://blog-comments-pearl.vercel.app/", // your serverURL
+      serverURL: "https://bili985-comments.vercel.app/", // your serverURL
     },
 
     components: {

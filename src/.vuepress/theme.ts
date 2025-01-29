@@ -120,7 +120,6 @@ export default hopeTheme({
 
   // 在这里配置主题提供的插件
   plugins: {
-    // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
     comment: {
       // 选择一个评论服务
       provider: "Waline",
@@ -128,7 +127,19 @@ export default hopeTheme({
       // 服务选项
       serverURL: "https://comments.bili985.com/", // your serverURL
     },
-
+    
+    docsearch: {
+      appId: '9BSITZJJ9E', // 替换为你的 Algolia App ID
+      apiKey: '0391c2cd00cf0b21f54182044c9edc96', // 替换为你的 Algolia API Key
+      indexName: 'bili985', // 替换为你的 Algolia 索引名称
+      placeholder: '搜索',
+      locales: {
+        '/': {
+          placeholder: '搜索',
+        },
+      },
+    },
+    
     components: {
       components: ["Badge", "VPCard","BiliBili"],
     },

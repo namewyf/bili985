@@ -13,9 +13,7 @@ export default sidebar({
       text: "数学",
       icon: "/assets/icon/math.svg",
       prefix: "数学/",
-      children: [
-        '一数'
-      ]
+      children: "structure"
     },
     {
       text: "英语",

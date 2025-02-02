@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/assets/icon/bilibili.svg",
 
-  repo: "namewyf/bili985",
+  repo: "namewyf/plan-bili985",
 
   docsDir: "src",
 

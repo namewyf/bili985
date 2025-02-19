@@ -12,7 +12,7 @@ export default hopeTheme({
     url: "https://space.bilibili.com/3494369946503683",
   },
 
-  logo: "/assets/icon/bilibili.svg",
+  logo: "/assets/icon/bili985.jpg",
 
   repo: "namewyf/plan-bili985",
 

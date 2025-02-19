@@ -109,7 +109,7 @@ $$
 ```component VPCard
 title: 书轩
 desc: Where there is light, there is hope
-logo: /assets/icon/bilibili.svg
+logo: /assets/icon/bili985.jpg
 link: https://space.bilibili.com/3494369946503683
 background: rgba(253, 230, 138, 0.15)
 ```
